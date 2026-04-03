@@ -16,7 +16,7 @@ The AI uses the Minimax algorithm to evaluate possible moves and choose the best
 ## How to Run
 ```bash
 python main.py
-
+```
 
 ##  Author
 
